@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Thúlio Silva — Product Engineer</title>
+  <desc id="desc">A dark burgundy banner with red geometric accents. Full-Stack and Applied AI. From requirements to production.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#181013"/>
+      <stop offset="1" stop-color="#3b111b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff625f"/>
+      <stop offset="1" stop-color="#b51f38"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="270" rx="14" fill="url(#background)"/>
+  <rect x="0" y="0" width="7" height="270" rx="3" fill="url(#accent)"/>
+  <g fill="none" stroke="#e54b56" opacity="0.14">
+    <circle cx="1090" cy="132" r="163"/>
+    <circle cx="1090" cy="132" r="120"/>
+    <circle cx="1090" cy="132" r="77"/>
+    <path d="M880 132h320M1090 0v270"/>
+  </g>
+  <rect x="49" y="45" width="34" height="4" rx="2" fill="#ff625f"/>
+  <text x="98" y="53" fill="#f3b3b8" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="3">BUILDING PRACTICAL SOFTWARE</text>
+  <text x="48" y="123" fill="#fff5f4" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Thúlio Silva</text>
+  <text x="50" y="168" fill="#f4d3d5" font-family="Segoe UI, Arial, sans-serif" font-size="24">Product Engineer · Full-Stack &amp; Applied AI</text>
+  <text x="50" y="218" fill="#cf9da5" font-family="Segoe UI, Arial, sans-serif" font-size="18">From requirements to production.</text>
+  <path d="m1020 108-24 24 24 24m70-48 24 24-24 24m-30-61-20 74" fill="none" stroke="#ff716f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+</svg>
